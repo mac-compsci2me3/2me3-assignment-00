@@ -271,7 +271,7 @@ public class A0 {
 		System.out.printf("%b\n", 0==1);//bool false
 		System.out.printf("%b\n", 1==1);//bool true
 		
-		name = "Yingying";
+		name = "Joe";
 		age = 18;
 		System.out.printf("Hello %s, next year you'll be %d years old\n", 
 				name, age);
