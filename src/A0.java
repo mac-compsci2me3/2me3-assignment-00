@@ -246,17 +246,20 @@ public class A0 {
 		String name = input.nextLine();
 		System.out.println("Hello " + name);
 		
+        /** 
+         * Add code for asking people's favorite color 
+         * and the system will respond "My favorite color is [input color] too" 
+         * **/
+
+		System.out.print("What's your favorite color?");
+		// Add your code here
+		
+
+		
 		System.out.print("How old are you?");
 		int age = input.nextInt();
 		System.out.println("Next year you'll be at " + (age+1) + " year");
 		
-        /** 
-         * Add code for  asking people's favorite color 
-         * and the system will respond "My favorite color is [input color] too!" 
-         * **/
-
-         System.out.print("What's your favorite color?");
-
 
         /***********************/
 		//formatting output  ------------------------
